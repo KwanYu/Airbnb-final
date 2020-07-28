@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/airbnb/airbnb" />
+        <option name="settingsModule" value="settings.py" />
+        <option name="manageScript" value="manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+        <option name="trackFilePattern" value="migrations" />
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/airbnb/frontend" />
+        <option value="$MODULE_DIR$/airbnb/frontend/dist" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/coa/coverage" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/coa/coverage/coa" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/coa/coverage/coa/lib" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/cuint/examples" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/json3" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/tryer/test" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/eslint/lib/formatters" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/sockjs/examples/koa" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/sockjs/examples/echo" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/sockjs/examples/hapi/html" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/sockjs/examples/express" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/sockjs/examples/multiplex" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/sockjs/examples/express-3.x" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/uri-js/tests" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/webpack/node_modules/uglify-js/tools" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/loglevel/test" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/xxhashjs/examples" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/js-base64" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/js-base64/test" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/js-base64/.attic/test-moment" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/uglify-js/tools" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/sprintf-js/demo" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/stylehacks/node_modules/postcss/docs/api" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/mute-stream/coverage/lcov-report" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/mute-stream/coverage/lcov-report/__root__" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/serve-index/public" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/vm-browserify/example/run" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/array-includes" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/faye-websocket/examples" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/unique-filename/coverage" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/unique-filename/coverage/__root__" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/crypto-browserify/example" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/console-browserify/test/static" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/webpack-dev-server/client" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/css-declaration-sorter/node_modules/postcss/docs/api" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/cssnano-preset-default/node_modules/postcss/docs/api" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/cssnano-util-raw-cache/node_modules/postcss/docs/api" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/uglifyjs-webpack-plugin/node_modules/uglify-es/tools" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/postcss-normalize-string/node_modules/postcss/docs/api" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/postcss-normalize-unicode/node_modules/postcss/docs/api" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/postcss-normalize-positions/node_modules/postcss/docs/api" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/postcss-normalize-whitespace/node_modules/postcss/docs/api" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/postcss-normalize-repeat-style/node_modules/postcss/docs/api" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/postcss-normalize-display-values/node_modules/postcss/docs/api" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/optimize-css-assets-webpack-plugin/node_modules/postcss/docs/api" />
+        <option value="$MODULE_DIR$/airbnb/frontend/node_modules/postcss-normalize-timing-functions/node_modules/postcss/docs/api" />
+      </list>
+    </option>
   </component>
 </module>
